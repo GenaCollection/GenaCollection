@@ -1,0 +1,18 @@
+function reverseNum(input){
+let num1 = input
+let firstDigit
+let lastDigit
+let reversNumber = 0
+
+while (input !== 0){
+	lastDigit = input % 10;
+  reversNumber = reversNumber * 10 + lastDigit;
+  input = Math.floor(input/10);
+}
+firstDigit = reversNumber % 10
+lastDigit = num1 % 10
+
+return reversNumber
+}
+
+console.log (reverseNum(123456789))
