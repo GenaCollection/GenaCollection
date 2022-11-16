@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GenaCollection
 - 👀 I’m interested in JS, React, HTML, CSS, 
-- 🌱 I’m currently learning JS advance
+- 🌱 I’m JS and React developer,S
 - 💞️ I’m looking to collaborate on realy intresting project for frontend
 - 📫 gena.emiryan91@gmail.com
 
